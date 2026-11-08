@@ -1,0 +1,12 @@
+[
+  {"id": 1,  "title": "Wings of Fire",              "author": "A. P. J. Abdul Kalam"},
+  {"id": 2,  "title": "The White Tiger",            "author": "Aravind Adiga"},
+  {"id": 3,  "title": "The God of Small Things",    "author": "Arundhati Roy"},
+  {"id": 4,  "title": "Train to Pakistan",          "author": "Khushwant Singh"},
+  {"id": 5,  "title": "Malgudi Days",               "author": "R. K. Narayan"},
+  {"id": 6,  "title": "The Guide",                  "author": "R. K. Narayan"},
+  {"id": 7,  "title": "Swami and Friends",          "author": "R. K. Narayan"},
+  {"id": 8,  "title": "The Alchemist",              "author": "Paulo Coelho"},
+  {"id": 9,  "title": "Clean Code",                 "author": "Robert C. Martin"},
+  {"id": 10, "title": "The Clean Coder",            "author": "Robert C. Martin"}
+]
